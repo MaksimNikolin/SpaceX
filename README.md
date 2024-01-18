@@ -1,12 +1,12 @@
 _**date of creation: Janiary, 2024**_
 
-Introduction:
+##**Introduction:**
 This project was implemented jointly with a team of developers from IBM Skills Networks within the framework of professional certification from IBM.
 
-Problem:
+##**Problem:**
 SpaceX advertises Falcon 9 rocket launches on its website at a cost of $62 million, while other suppliers cost more than $165 million each, most of the savings are achieved by SpaceX being able to reuse the first stage. Therefore, if we can determine if the first stage will land, we will be able to determine the launch cost. This information can be used if an alternative company wants to bid against SpaceX for a rocket launch.
 
-Content:
+##**Content:**  
  **1. Spacex_web_scrapped** - In this block, parsing was performed from the site wikipedia.org necessary information such as: _'Version_Booster', 'Launch_Site', 'Payload_mass', 'Orbit', 'Customer', 'Launchoutcome' and others_. The method of parsing used: _Beautifulsoup_. The result was saved to a file: _spacex_web_scrapped_.  
  **2. Dataset_part_1** - The dataset was transformed to a more readable form. The result was saved to a file: _dataset_part_1.xls_.  
  **3. Dataset_part_2** - Similarly, the dataset was transformed to a more readable form. The result was saved to a file: _dataset_part_2.xls_.  
