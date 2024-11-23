@@ -1,4 +1,4 @@
-_**date of creation: Janiary, 2024**_
+_**date of creation: January, 2024**_
 
 ## Introduction:  
 This project was implemented jointly with a team of developers from IBM Skills Networks within the framework of professional certification from IBM.
